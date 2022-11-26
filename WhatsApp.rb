@@ -9,7 +9,7 @@ require 'json'
 #   -H 'Content-Type: application/json' \
 #   -d '{ "messaging_product": "whatsapp", "to": "919480888784", "type": "template", "template": { "name": "hello_world", "language": { "code": "en_US" } } }'
 
-TOKEN = "EABPGZAbtGoYYBAK6rhu7qX9TAnPMYhEC77bUBMzdGMFJwzhn5jUjpyxTlE9rsUJk7RyaDVWHZABVNDXYjrXQ4bsLFki6PQcZA0y9n5kdZBcbVzdxGadHIVdZAsDlmCfge9BW9Nl0C81v768oB9S4X5FNDDb4EVQ17ZA6b6dfQQz1AtwzNjjkztZBfhQai4c9CcbxS3kmysz2bQ3oLwyX1NA28SC6n5D0EsZD"
+TOKEN = ""
 SENDER_ID = "100137039608242"
 BUSINESS_ID = "107766202165397"
 RECIPIENT_ID = "919480888784"
